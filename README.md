@@ -25,7 +25,7 @@
 
 <h3>Nhân viên</h3>
 
-![image](https://github.com/vovanminhtri2002/Java_AppBanSach/assets/118377344/487318f5-101f-4a7c-8a15-d522e550ad1f)
+![image](https://github.com/vovanminhtri2002/Java_AppBanSach/assets/118377344/ddb84bc7-795c-482d-8681-c2a00baab147)
 
 <h3>Đổi mật khẩu</h3>
 
